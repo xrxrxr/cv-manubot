@@ -41,9 +41,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/58b69da92880578bef3a0068f2ad219736d46957/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/58b69da92880578bef3a0068f2ad219736d46957/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/58b69da92880578bef3a0068f2ad219736d46957/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +65,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/58b69da92880578bef3a0068f2ad219736d46957/))
 was automatically generated
-from [xrxrxr/cv-manubot@8a59c1e](https://github.com/xrxrxr/cv-manubot/tree/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31)
+from [xrxrxr/cv-manubot@58b69da](https://github.com/xrxrxr/cv-manubot/tree/58b69da92880578bef3a0068f2ad219736d46957)
 on June 4, 2021.
 </em></small>
 
