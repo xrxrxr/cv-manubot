@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/057656d179dfa70db1cf1369728612c6b6982723/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/057656d179dfa70db1cf1369728612c6b6982723/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/057656d179dfa70db1cf1369728612c6b6982723/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/057656d179dfa70db1cf1369728612c6b6982723/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45/))
 was automatically generated
-from [xrxrxr/cv-manubot@057656d](https://github.com/xrxrxr/cv-manubot/tree/057656d179dfa70db1cf1369728612c6b6982723)
+from [xrxrxr/cv-manubot@a45f3ef](https://github.com/xrxrxr/cv-manubot/tree/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45)
 on June 10, 2021.
 </em></small>
 
@@ -80,7 +80,7 @@ on June 10, 2021.
 
 
 
-## CV page{.center .page_center}
+## CV {.center .page_center}
 
 ### Education
 
@@ -92,12 +92,19 @@ Bachelor 3 DevOps work-study program
 [October 2020 - June 2021]{.right}
 
 Zenika/Capgemini
+
 [Rennes, France]{.right}
+
 Poei DevOps Consultant
+
 [September 2019 - December 2019]{.right}
+
 the hacking project
+
 [Paris, France]{.right}
+
 Degree in Ruby on Rails - fullstack
+
 [January 2019 - March 2019]{.right}
 University of Granada
 [Spain]{.right}
