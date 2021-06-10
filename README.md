@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/xrxrxr/cv-manubot/tree/gh-pages) branch hosts the contents of this directory at <https://xrxrxr.github.io/cv-manubot/>.
-The permalink for this webpage version is <https://xrxrxr.github.io/cv-manubot/v/09f50e378801ef21d1b72f65f8ec4ef817cf9ec1/>.
+The permalink for this webpage version is <https://xrxrxr.github.io/cv-manubot/v/f03d442367e631adb9ecbe0ca8d37cf9dc366ce0/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://xrxrxr.github.io/cv-manubot/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`09f50e378801ef21d1b72f65f8ec4ef817cf9ec1`](https://github.com/xrxrxr/cv-manubot/commit/09f50e378801ef21d1b72f65f8ec4ef817cf9ec1).
+[`f03d442367e631adb9ecbe0ca8d37cf9dc366ce0`](https://github.com/xrxrxr/cv-manubot/commit/f03d442367e631adb9ecbe0ca8d37cf9dc366ce0).
