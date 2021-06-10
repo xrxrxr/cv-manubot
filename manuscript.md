@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/f03d442367e631adb9ecbe0ca8d37cf9dc366ce0/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/f03d442367e631adb9ecbe0ca8d37cf9dc366ce0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/f03d442367e631adb9ecbe0ca8d37cf9dc366ce0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/395fc58d2b77bd04520544806b7de152671a0fdb/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/395fc58d2b77bd04520544806b7de152671a0fdb/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/395fc58d2b77bd04520544806b7de152671a0fdb/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/f03d442367e631adb9ecbe0ca8d37cf9dc366ce0/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/395fc58d2b77bd04520544806b7de152671a0fdb/))
 was automatically generated
-from [xrxrxr/cv-manubot@f03d442](https://github.com/xrxrxr/cv-manubot/tree/f03d442367e631adb9ecbe0ca8d37cf9dc366ce0)
+from [xrxrxr/cv-manubot@395fc58](https://github.com/xrxrxr/cv-manubot/tree/395fc58d2b77bd04520544806b7de152671a0fdb)
 on June 10, 2021.
 </em></small>
 
@@ -88,9 +88,9 @@ on June 10, 2021.
 
 Bachelor 3 DevOps work-study program
 
-[Rennes, France
+[Rennes, France]{.right}
 
-October 2020 - June 2021]{.right}
+[October 2020 - June 2021]{.right}
 
 ###### Zenika/Capgemini
 
