@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/73409f1b1257d8eba87538faa0d198c2a608970c/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/73409f1b1257d8eba87538faa0d198c2a608970c/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/73409f1b1257d8eba87538faa0d198c2a608970c/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/e360fc828873867532c287a733354f3fbbe3ddf3/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/e360fc828873867532c287a733354f3fbbe3ddf3/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/e360fc828873867532c287a733354f3fbbe3ddf3/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/73409f1b1257d8eba87538faa0d198c2a608970c/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/e360fc828873867532c287a733354f3fbbe3ddf3/))
 was automatically generated
-from [xrxrxr/cv-manubot@73409f1](https://github.com/xrxrxr/cv-manubot/tree/73409f1b1257d8eba87538faa0d198c2a608970c)
+from [xrxrxr/cv-manubot@e360fc8](https://github.com/xrxrxr/cv-manubot/tree/e360fc828873867532c287a733354f3fbbe3ddf3)
 on June 10, 2021.
 </em></small>
 
@@ -102,36 +102,35 @@ Zenika/Capgemini
 Poei DevOps Consultant
 [September 2019 - December 2019]{.right}
 the hacking project
-Paris, France
+[Paris, France]{.right}
 Degree in Ruby on Rails - fullstack
-January 2019 - March 2019
+[January 2019 - March 2019]{.right}
 University of Granada
-Spain
+[Spain]{.right}
 Highschool diploma
 
-- 2014
-  Cervantes Institute
-  Saint-Brieuc, France
-  Spanish B2 certificate
+[2014]{.right}
+Cervantes Institute
+[Saint-Brieuc, France]{.right}
+Spanish B2 certificate
 
-- 2010
+[2010]{.right}
 
 ### Professional experience
 
 High Tech for Telecontrol Project
-Redon, France
+[Redon, France]{.right}
 
-January 2021 - March 2021
-
+[January 2021 - March 2021]{.right}
 developing web application of Telecontrol for communities
 
 ærario.fr / Townhall of Lanvollon
 
 Volunteer
 
-Lanvollon, France
+[Lanvollon, France]{.right}
 
-February 2020
+[February 2020]{.right}
 
 web developer /DevOps Campaign website
 
@@ -141,9 +140,9 @@ Strada Marketing
 
 Temporary
 
-Saint-Brieuc, France
+[Saint-Brieuc, France]{.right}
 
-June 2018 - July 2019
+[June 2018 - July 2019]{.right}
 
 assisted the sales of ice-cream, non-alcoholic cocktail, Mister cocktail
 advertised the release of the Crew2 game
@@ -152,9 +151,9 @@ fruteria las torres
 
 Seasonal employment
 
-Granada, Spain
+[Granada, Spain]{.right}
 
-each summer 2015 - 2016
+[each summer 2015 - 2016]{.right}
 
 cashier
 customer support
@@ -164,9 +163,9 @@ docteur ordinateur
 
 Traineeship
 
-Bordeaux, France
+[Bordeaux, France]{.right}
 
-2018
+[2008]{.right}
 
 served as backup
 repair and installation of computer equipments
