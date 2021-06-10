@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/e360fc828873867532c287a733354f3fbbe3ddf3/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/e360fc828873867532c287a733354f3fbbe3ddf3/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/e360fc828873867532c287a733354f3fbbe3ddf3/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/e360fc828873867532c287a733354f3fbbe3ddf3/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902/))
 was automatically generated
-from [xrxrxr/cv-manubot@e360fc8](https://github.com/xrxrxr/cv-manubot/tree/e360fc828873867532c287a733354f3fbbe3ddf3)
+from [xrxrxr/cv-manubot@cb0bd4a](https://github.com/xrxrxr/cv-manubot/tree/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902)
 on June 10, 2021.
 </em></small>
 
@@ -86,7 +86,7 @@ Use this template as a starting point for your manuscript.
 The rest of this document is a full list of formatting elements/features supported by Manubot.
 Compare the input (`.md` files in the `/content` directory) to the output you see below.
 
-## CV
+## CV page{.center .page_center}
 
 ### Education
 
