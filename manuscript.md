@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/a8ab5f85d1ad0e9221f241767a196e0379012a91/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/a8ab5f85d1ad0e9221f241767a196e0379012a91/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/a8ab5f85d1ad0e9221f241767a196e0379012a91/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/b557d8a26bb8fefb40f8194b3aa273706d4d7d2b/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/b557d8a26bb8fefb40f8194b3aa273706d4d7d2b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/b557d8a26bb8fefb40f8194b3aa273706d4d7d2b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/a8ab5f85d1ad0e9221f241767a196e0379012a91/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/b557d8a26bb8fefb40f8194b3aa273706d4d7d2b/))
 was automatically generated
-from [xrxrxr/cv-manubot@a8ab5f8](https://github.com/xrxrxr/cv-manubot/tree/a8ab5f85d1ad0e9221f241767a196e0379012a91)
+from [xrxrxr/cv-manubot@b557d8a](https://github.com/xrxrxr/cv-manubot/tree/b557d8a26bb8fefb40f8194b3aa273706d4d7d2b)
 on June 10, 2021.
 </em></small>
 
@@ -377,7 +377,7 @@ useful for _warnings_ - [manubot.org](https://manubot.org/)
 
 EPSI (École Professionnelle des Sciences Informatiques)
 
-[Rennes, France]{.right}
+Rennes, France
 Bachelor 3 DevOps work-study program
 
 October 2020 - June 2021
@@ -400,7 +400,7 @@ Highschool diploma
 
 2014
 Cervantes Institute
-[Saint-Brieuc, France]{.right}
+Saint-Brieuc, France
 Spanish B2 certificate
 
 2010
