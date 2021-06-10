@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/0318dfb493fb51ab48918c2f8312407fbebcc9a0/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/0318dfb493fb51ab48918c2f8312407fbebcc9a0/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/0318dfb493fb51ab48918c2f8312407fbebcc9a0/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/0318dfb493fb51ab48918c2f8312407fbebcc9a0/))
 was automatically generated
-from [xrxrxr/cv-manubot@a45f3ef](https://github.com/xrxrxr/cv-manubot/tree/a45f3ef846b5bbe76732373d8a3d1041b7e6fc45)
+from [xrxrxr/cv-manubot@0318dfb](https://github.com/xrxrxr/cv-manubot/tree/0318dfb493fb51ab48918c2f8312407fbebcc9a0)
 on June 10, 2021.
 </em></small>
 
@@ -79,114 +79,6 @@ on June 10, 2021.
 
 
 
-
-## CV {.center .page_center}
-
-### Education
-
-EPSI (École Professionnelle des Sciences Informatiques)
-
-[Rennes, France]{.right}
-Bachelor 3 DevOps work-study program
-
-[October 2020 - June 2021]{.right}
-
-Zenika/Capgemini
-
-[Rennes, France]{.right}
-
-Poei DevOps Consultant
-
-[September 2019 - December 2019]{.right}
-
-the hacking project
-
-[Paris, France]{.right}
-
-Degree in Ruby on Rails - fullstack
-
-[January 2019 - March 2019]{.right}
-University of Granada
-[Spain]{.right}
-Highschool diploma
-
-[2014]{.right}
-Cervantes Institute
-[Saint-Brieuc, France]{.right}
-Spanish B2 certificate
-
-[2010]{.right}
-
-### Professional experience
-
-High Tech for Telecontrol Project
-[Redon, France]{.right}
-
-[January 2021 - March 2021]{.right}
-developing web application of Telecontrol for communities
-
-ærario.fr / Townhall of Lanvollon
-
-Volunteer
-
-[Lanvollon, France]{.right}
-
-[February 2020]{.right}
-
-web developer /DevOps Campaign website
-
-implementation of open source Mattermost / Jitsi collaboration tools
-
-Strada Marketing
-
-Temporary
-
-[Saint-Brieuc, France]{.right}
-
-[June 2018 - July 2019]{.right}
-
-assisted the sales of ice-cream, non-alcoholic cocktail, Mister cocktail
-advertised the release of the Crew2 game
-
-fruteria las torres
-
-Seasonal employment
-
-[Granada, Spain]{.right}
-
-[each summer 2015 - 2016]{.right}
-
-cashier
-customer support
-shelving Inventory
-
-docteur ordinateur
-
-Traineeship
-
-[Bordeaux, France]{.right}
-
-[2008]{.right}
-
-served as backup
-repair and installation of computer equipments
-customer supports and services
-
-### Skills
-
-##### programming language:
-
-HTML, CSS, Javascript, JQuery, Git, Ruby, Rails, Bash, Python, Postgresql
-IT:
-Terraform, Ansible, Openshift, Docker, AWS/GCP
-
-##### Spoken language:
-
-French, Spanish, English
-
-De-Phase Project
-
-National Winner of the EPSI workshop 2020/2021
 
 ## Basic formatting
 
@@ -477,6 +369,115 @@ useful for _important information_ - [manubot.org](https://manubot.org/)
 <i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
 useful for _warnings_ - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
+
+
+## CV {.center .page_center}
+
+### Education
+
+EPSI (École Professionnelle des Sciences Informatiques)
+
+[Rennes, France]{.right}
+Bachelor 3 DevOps work-study program
+
+[October 2020 - June 2021]{.right}
+
+Zenika/Capgemini
+
+[Rennes, France]{.right}
+
+Poei DevOps Consultant
+
+[September 2019 - December 2019]{.right}
+
+the hacking project
+
+[Paris, France]{.right}
+
+Degree in Ruby on Rails - fullstack
+
+[January 2019 - March 2019]{.right}
+University of Granada
+[Spain]{.right}
+Highschool diploma
+
+[2014]{.right}
+Cervantes Institute
+[Saint-Brieuc, France]{.right}
+Spanish B2 certificate
+
+[2010]{.right}
+
+### Professional experience
+
+High Tech for Telecontrol Project
+[Redon, France]{.right}
+
+[January 2021 - March 2021]{.right}
+developing web application of Telecontrol for communities
+
+ærario.fr / Townhall of Lanvollon
+
+Volunteer
+
+[Lanvollon, France]{.right}
+
+[February 2020]{.right}
+
+web developer /DevOps Campaign website
+
+implementation of open source Mattermost / Jitsi collaboration tools
+
+Strada Marketing
+
+Temporary
+
+[Saint-Brieuc, France]{.right}
+
+[June 2018 - July 2019]{.right}
+
+assisted the sales of ice-cream, non-alcoholic cocktail, Mister cocktail
+advertised the release of the Crew2 game
+
+fruteria las torres
+
+Seasonal employment
+
+[Granada, Spain]{.right}
+
+[each summer 2015 - 2016]{.right}
+
+cashier
+customer support
+shelving Inventory
+
+docteur ordinateur
+
+Traineeship
+
+[Bordeaux, France]{.right}
+
+[2008]{.right}
+
+served as backup
+repair and installation of computer equipments
+customer supports and services
+
+### Skills
+
+##### programming language:
+
+HTML, CSS, Javascript, JQuery, Git, Ruby, Rails, Bash, Python, Postgresql
+IT:
+Terraform, Ansible, Openshift, Docker, AWS/GCP
+
+##### Spoken language:
+
+French, Spanish, English
+
+De-Phase Project
+
+National Winner of the EPSI workshop 2020/2021
 
 
 ## References {.page_break_before}
