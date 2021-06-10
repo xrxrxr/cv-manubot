@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/cb9811ae1904c8146304edb7577ee7c80f43bb06/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/cb9811ae1904c8146304edb7577ee7c80f43bb06/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/cb9811ae1904c8146304edb7577ee7c80f43bb06/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/cb9811ae1904c8146304edb7577ee7c80f43bb06/))
 was automatically generated
-from [xrxrxr/cv-manubot@6d7feab](https://github.com/xrxrxr/cv-manubot/tree/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7)
+from [xrxrxr/cv-manubot@cb9811a](https://github.com/xrxrxr/cv-manubot/tree/cb9811ae1904c8146304edb7577ee7c80f43bb06)
 on June 10, 2021.
 </em></small>
 
@@ -398,15 +398,15 @@ Degree in Ruby on Rails - fullstack
 
 [January 2019 - March 2019]{.right}
 University of Granada
-[Spain]{.right}
+[Spain ]{.right}
 Highschool diploma
 
-[2014]{.right}
+[2014 ]{.right}
 Cervantes Institute
 [Saint-Brieuc, France]{.right}
 Spanish B2 certificate
 
-[2010]{.right}
+[2010 ]{.right}
 
 ### Professional experience
 
@@ -457,7 +457,7 @@ Traineeship
 
 [Bordeaux, France]{.right}
 
-[2008]{.right}
+[2008 ]{.right}
 
 served as backup
 repair and installation of computer equipments
