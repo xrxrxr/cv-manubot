@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/9787af64d5c59b414b614b5a6d74c3f832530cd5/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/9787af64d5c59b414b614b5a6d74c3f832530cd5/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/9787af64d5c59b414b614b5a6d74c3f832530cd5/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/09f50e378801ef21d1b72f65f8ec4ef817cf9ec1/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/09f50e378801ef21d1b72f65f8ec4ef817cf9ec1/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/09f50e378801ef21d1b72f65f8ec4ef817cf9ec1/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/9787af64d5c59b414b614b5a6d74c3f832530cd5/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/09f50e378801ef21d1b72f65f8ec4ef817cf9ec1/))
 was automatically generated
-from [xrxrxr/cv-manubot@9787af6](https://github.com/xrxrxr/cv-manubot/tree/9787af64d5c59b414b614b5a6d74c3f832530cd5)
+from [xrxrxr/cv-manubot@09f50e3](https://github.com/xrxrxr/cv-manubot/tree/09f50e378801ef21d1b72f65f8ec4ef817cf9ec1)
 on June 10, 2021.
 </em></small>
 
@@ -85,32 +85,36 @@ on June 10, 2021.
 ### Education
 
 EPSI (École Professionnelle des Sciences Informatiques)
-
-[Rennes, France]{.right}
 Bachelor 3 DevOps work-study program
 
-October 2020 - June 2021
+[Rennes, France
+
+October 2020 - June 2021]{.right}
 
 Zenika/Capgemini
-
-Rennes, France
-
 Poei DevOps Consultant
 
-September 2019 - December 2019
-the hacking project
+[Rennes, France
 
-Paris, France
+September 2019 - December 2019]{.right}
+
+the hacking project
 Degree in Ruby on Rails - fullstack
 
+Paris, France
+
 January 2019 - March 2019
-Spain
+
 Highschool diploma
+Universisdad Granada, Spain
+Spain
 
 2014
+
 Cervantes Institute
-Saint-Brieuc, France
 Spanish B2 certificate
+
+Saint-Brieuc, France
 
 2010
 
