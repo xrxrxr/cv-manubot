@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/cb9811ae1904c8146304edb7577ee7c80f43bb06/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/cb9811ae1904c8146304edb7577ee7c80f43bb06/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/cb9811ae1904c8146304edb7577ee7c80f43bb06/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/a8ab5f85d1ad0e9221f241767a196e0379012a91/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/a8ab5f85d1ad0e9221f241767a196e0379012a91/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/a8ab5f85d1ad0e9221f241767a196e0379012a91/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/cb9811ae1904c8146304edb7577ee7c80f43bb06/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/a8ab5f85d1ad0e9221f241767a196e0379012a91/))
 was automatically generated
-from [xrxrxr/cv-manubot@cb9811a](https://github.com/xrxrxr/cv-manubot/tree/cb9811ae1904c8146304edb7577ee7c80f43bb06)
+from [xrxrxr/cv-manubot@a8ab5f8](https://github.com/xrxrxr/cv-manubot/tree/a8ab5f85d1ad0e9221f241767a196e0379012a91)
 on June 10, 2021.
 </em></small>
 
@@ -380,50 +380,45 @@ EPSI (École Professionnelle des Sciences Informatiques)
 [Rennes, France]{.right}
 Bachelor 3 DevOps work-study program
 
-[October 2020 - June 2021]{.right}
+October 2020 - June 2021
 
 Zenika/Capgemini
 
-[Rennes, France]{.right}
+Rennes, France
 
 Poei DevOps Consultant
 
-[September 2019 - December 2019]{.right}
-
+September 2019 - December 2019
 the hacking project
 
-[Paris, France]{.right}
-
+Paris, France
 Degree in Ruby on Rails - fullstack
 
-[January 2019 - March 2019]{.right}
-University of Granada
-[Spain ]{.right}
+January 2019 - March 2019
+Spain
 Highschool diploma
 
-[2014 ]{.right}
+2014
 Cervantes Institute
 [Saint-Brieuc, France]{.right}
 Spanish B2 certificate
 
-[2010 ]{.right}
+2010
 
 ### Professional experience
 
 High Tech for Telecontrol Project
-[Redon, France]{.right}
-
-[January 2021 - March 2021]{.right}
+Redon, France
+January 2021 - March 2021
 developing web application of Telecontrol for communities
 
 ærario.fr / Townhall of Lanvollon
 
 Volunteer
 
-[Lanvollon, France]{.right}
+Lanvollon, France
 
-[February 2020]{.right}
-
+February 2020
 web developer /DevOps Campaign website
 
 implementation of open source Mattermost / Jitsi collaboration tools
@@ -432,9 +427,9 @@ Strada Marketing
 
 Temporary
 
-[Saint-Brieuc, France]{.right}
+Saint-Brieuc, France
 
-[June 2018 - July 2019]{.right}
+June 2018 - July 2019
 
 assisted the sales of ice-cream, non-alcoholic cocktail, Mister cocktail
 advertised the release of the Crew2 game
@@ -443,9 +438,9 @@ fruteria las torres
 
 Seasonal employment
 
-[Granada, Spain]{.right}
+Granada, Spain
 
-[each summer 2015 - 2016]{.right}
+each summer 2015 - 2016
 
 cashier
 customer support
@@ -455,9 +450,9 @@ docteur ordinateur
 
 Traineeship
 
-[Bordeaux, France]{.right}
+Bordeaux, France
 
-[2008 ]{.right}
+2008
 
 served as backup
 repair and installation of computer equipments
