@@ -22,7 +22,6 @@ ordinateur
 Poei
 Professionnelle
 Redon
-refour
 Rennes
 Strada
 Telecontrol
@@ -30,5 +29,4 @@ Terraform
 Townhall
 Traineeship
 Universisdad
-xrxrxr
 Zenika

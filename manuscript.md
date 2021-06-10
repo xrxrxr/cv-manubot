@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/395fc58d2b77bd04520544806b7de152671a0fdb/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/395fc58d2b77bd04520544806b7de152671a0fdb/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/395fc58d2b77bd04520544806b7de152671a0fdb/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/383a103ea4e7f4c48dc8d5dce1e370e8396c7a15/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/383a103ea4e7f4c48dc8d5dce1e370e8396c7a15/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/383a103ea4e7f4c48dc8d5dce1e370e8396c7a15/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -49,36 +49,6 @@ manubot-output-citekeys: output/citations.tsv
 manubot-requests-cache-path: ci/cache/requests-cache
 manubot-clear-requests-cache: false
 ...
-
-
-
-
-
-
-<small><em>
-This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/395fc58d2b77bd04520544806b7de152671a0fdb/))
-was automatically generated
-from [xrxrxr/cv-manubot@395fc58](https://github.com/xrxrxr/cv-manubot/tree/395fc58d2b77bd04520544806b7de152671a0fdb)
-on June 10, 2021.
-</em></small>
-
-## Authors
-
-
-
-+ **xavier refour**<br>
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [xrxrxr](https://github.com/xrxrxr)<br>
-  <small>
-  </small>
-
-
-
-## Abstract {.page_break_before}
-
-
-
 
 ## CV
 
@@ -184,9 +154,3 @@ French, Spanish, English
 De-Phase Project
 
 National Winner of the EPSI workshop 2020/2021
-
-
-## References {.page_break_before}
-
-<!-- Explicitly insert bibliography here -->
-<div id="refs"></div>
