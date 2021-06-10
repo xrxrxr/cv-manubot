@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/0318dfb493fb51ab48918c2f8312407fbebcc9a0/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/0318dfb493fb51ab48918c2f8312407fbebcc9a0/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/0318dfb493fb51ab48918c2f8312407fbebcc9a0/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/0318dfb493fb51ab48918c2f8312407fbebcc9a0/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7/))
 was automatically generated
-from [xrxrxr/cv-manubot@0318dfb](https://github.com/xrxrxr/cv-manubot/tree/0318dfb493fb51ab48918c2f8312407fbebcc9a0)
+from [xrxrxr/cv-manubot@6d7feab](https://github.com/xrxrxr/cv-manubot/tree/6d7feab6a1d625852e73c9ed9521a1e63abd0ef7)
 on June 10, 2021.
 </em></small>
 
@@ -371,7 +371,7 @@ useful for _warnings_ - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
 
 
-## CV {.center .page_center}
+## CV
 
 ### Education
 
