@@ -33,9 +33,9 @@ header-includes: |-
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/057656d179dfa70db1cf1369728612c6b6982723/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/057656d179dfa70db1cf1369728612c6b6982723/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/057656d179dfa70db1cf1369728612c6b6982723/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -57,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/057656d179dfa70db1cf1369728612c6b6982723/))
 was automatically generated
-from [xrxrxr/cv-manubot@cb0bd4a](https://github.com/xrxrxr/cv-manubot/tree/cb0bd4a8d852ee5f6327f6bcc0a05ef9521ac902)
+from [xrxrxr/cv-manubot@057656d](https://github.com/xrxrxr/cv-manubot/tree/057656d179dfa70db1cf1369728612c6b6982723)
 on June 10, 2021.
 </em></small>
 
@@ -79,12 +79,6 @@ on June 10, 2021.
 
 
 
-
-This manuscript is a template (aka "rootstock") for [Manubot](https://manubot.org/ "Manubot"), a tool for writing scholarly manuscripts.
-Use this template as a starting point for your manuscript.
-
-The rest of this document is a full list of formatting elements/features supported by Manubot.
-Compare the input (`.md` files in the `/content` directory) to the output you see below.
 
 ## CV page{.center .page_center}
 
@@ -171,13 +165,16 @@ served as backup
 repair and installation of computer equipments
 customer supports and services
 
-Skills
+### Skills
 
-programming language:
+##### programming language:
+
 HTML, CSS, Javascript, JQuery, Git, Ruby, Rails, Bash, Python, Postgresql
 IT:
 Terraform, Ansible, Openshift, Docker, AWS/GCP
-Spoken language:
+
+##### Spoken language:
+
 French, Spanish, English
 
 De-Phase Project
