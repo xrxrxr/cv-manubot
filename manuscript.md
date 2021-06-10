@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: Xavier Refour
 keywords:
 - markdown
 - publishing
@@ -7,18 +7,17 @@ keywords:
 lang: en-US
 date-meta: '2021-06-10'
 author-meta:
-- John Doe
-- Jane Roe
+- xavier refour
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="Xavier Refour" />
+  <meta name="citation_title" content="Xavier Refour" />
+  <meta property="og:title" content="Xavier Refour" />
+  <meta property="twitter:title" content="Xavier Refour" />
   <meta name="dc.date" content="2021-06-10" />
   <meta name="citation_publication_date" content="2021-06-10" />
   <meta name="dc.language" content="en-US" />
@@ -27,23 +26,16 @@ header-includes: |-
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="John Doe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@johndoe" />
-  <meta name="citation_author" content="Jane Roe" />
-  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
-  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
-  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
+  <meta name="citation_author" content="xavier refour" />
   <link rel="canonical" href="https://xrxrxr.github.io/cv-manubot/" />
   <meta property="og:url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta property="twitter:url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/73409f1b1257d8eba87538faa0d198c2a608970c/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/73409f1b1257d8eba87538faa0d198c2a608970c/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/73409f1b1257d8eba87538faa0d198c2a608970c/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -65,9 +57,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/73409f1b1257d8eba87538faa0d198c2a608970c/))
 was automatically generated
-from [xrxrxr/cv-manubot@8a59c1e](https://github.com/xrxrxr/cv-manubot/tree/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31)
+from [xrxrxr/cv-manubot@73409f1](https://github.com/xrxrxr/cv-manubot/tree/73409f1b1257d8eba87538faa0d198c2a608970c)
 on June 10, 2021.
 </em></small>
 
@@ -75,25 +67,10 @@ on June 10, 2021.
 
 
 
-+ **John Doe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
++ **xavier refour**<br>
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [johndoe](https://github.com/johndoe)
-    · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [johndoe](https://twitter.com/johndoe)<br>
+    [xrxrxr](https://github.com/xrxrxr)<br>
   <small>
-     Department of Something, University of Whatever
-     · Funded by Grant XXXXXXXX
-  </small>
-
-+ **Jane Roe**<br>
-    ![ORCID icon](images/orcid.svg){.inline_icon}
-    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
-    · ![GitHub icon](images/github.svg){.inline_icon}
-    [janeroe](https://github.com/janeroe)<br>
-  <small>
-     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
@@ -109,9 +86,108 @@ Use this template as a starting point for your manuscript.
 The rest of this document is a full list of formatting elements/features supported by Manubot.
 Compare the input (`.md` files in the `/content` directory) to the output you see below.
 
+## CV
+
+### Education
+
+EPSI (École Professionnelle des Sciences Informatiques)
+
+[Rennes, France]{.right}
+Bachelor 3 DevOps work-study program
+
+[October 2020 - June 2021]{.right}
+
+Zenika/Capgemini
+[Rennes, France]{.right}
+Poei DevOps Consultant
+[September 2019 - December 2019]{.right}
+the hacking project
+Paris, France
+Degree in Ruby on Rails - fullstack
+January 2019 - March 2019
+University of Granada
+Spain
+Highschool diploma
+
+- 2014
+  Cervantes Institute
+  Saint-Brieuc, France
+  Spanish B2 certificate
+
+- 2010
+
+### Professional experience
+
+High Tech for Telecontrol Project
+Redon, France
+
+January 2021 - March 2021
+
+developing web application of Telecontrol for communities
+
+ærario.fr / Townhall of Lanvollon
+
+Volunteer
+
+Lanvollon, France
+
+February 2020
+
+web developer /DevOps Campaign website
+
+implementation of open source Mattermost / Jitsi collaboration tools
+
+Strada Marketing
+
+Temporary
+
+Saint-Brieuc, France
+
+June 2018 - July 2019
+
+assisted the sales of ice-cream, non-alcoholic cocktail, Mister cocktail
+advertised the release of the Crew2 game
+
+fruteria las torres
+
+Seasonal employment
+
+Granada, Spain
+
+each summer 2015 - 2016
+
+cashier
+customer support
+shelving Inventory
+
+docteur ordinateur
+
+Traineeship
+
+Bordeaux, France
+
+2018
+
+served as backup
+repair and installation of computer equipments
+customer supports and services
+
+Skills
+
+programming language:
+HTML, CSS, Javascript, JQuery, Git, Ruby, Rails, Bash, Python, Postgresql
+IT:
+Terraform, Ansible, Openshift, Docker, AWS/GCP
+Spoken language:
+French, Spanish, English
+
+De-Phase Project
+
+National Winner of the EPSI workshop 2020/2021
+
 ## Basic formatting
 
-**Bold** __text__
+**Bold** **text**
 
 [Semi-bold text]{.semibold}
 
@@ -119,19 +195,19 @@ Compare the input (`.md` files in the `/content` directory) to the output you se
 
 [Right-aligned text]{.right}
 
-*Italic* _text_
+_Italic_ _text_
 
-Combined *italics and __bold__*
+Combined _italics and **bold**_
 
 ~~Strikethrough~~
 
 1. Ordered list item
 2. Ordered list item
-    a. Sub-item
-    b. Sub-item
-        i. Sub-sub-item
+   a. Sub-item
+   b. Sub-item
+   i. Sub-sub-item
 3. Ordered list item
-    a. Sub-item
+   a. Sub-item
 
 - List item
 - List item
@@ -182,7 +258,7 @@ Horizontal rule:
 
 `Heading 1`'s are recommended to be reserved for the title of the manuscript.
 
-`Heading 2`'s are recommended for broad sections such as *Abstract*, *Methods*, *Conclusion*, etc.
+`Heading 2`'s are recommended for broad sections such as _Abstract_, _Methods_, _Conclusion_, etc.
 
 `Heading 3`'s and `Heading 4`'s are recommended for sub-sections.
 
@@ -198,7 +274,7 @@ Bare URL link: <https://manubot.org>
 
 [Link by reference][manubot homepage]
 
-[Manubot Homepage]: https://manubot.org
+[manubot homepage]: https://manubot.org
 
 ## Citations
 
@@ -295,28 +371,28 @@ White background specified to serve as a backdrop for transparent sections of th
 
 ## Tables
 
-| *Bowling Scores* | Jane          | John          | Alice         | Bob           |
-|:-----------------|:-------------:|:-------------:|:-------------:|:-------------:|
-| Game 1 | 150 | 187 | 210 | 105 |
-| Game 2 |  98 | 202 | 197 | 102 |
-| Game 3 | 123 | 180 | 238 | 134 |
+| _Bowling Scores_ | Jane | John | Alice | Bob |
+| :--------------- | :--: | :--: | :---: | :-: |
+| Game 1           | 150  | 187  |  210  | 105 |
+| Game 2           |  98  | 202  |  197  | 102 |
+| Game 3           | 123  | 180  |  238  | 134 |
 
 Table: A table with a top caption and specified relative column widths.
 {#tbl:bowling-scores}
 
-|         | Digits 1-33                        | Digits 34-66                      | Digits 67-99                      | Ref.                                                        |
-|:--------|:-----------------------------------|:----------------------------------|:----------------------------------|:------------------------------------------------------------|
-| pi      | 3.14159265358979323846264338327950 | 288419716939937510582097494459230 | 781640628620899862803482534211706 | [`piday.org`](https://www.piday.org/million/)               |
-| e       | 2.71828182845904523536028747135266 | 249775724709369995957496696762772 | 407663035354759457138217852516642 | [`nasa.gov`](https://apod.nasa.gov/htmltest/gifcity/e.2mil) |
+|     | Digits 1-33                        | Digits 34-66                      | Digits 67-99                      | Ref.                                                        |
+| :-- | :--------------------------------- | :-------------------------------- | :-------------------------------- | :---------------------------------------------------------- |
+| pi  | 3.14159265358979323846264338327950 | 288419716939937510582097494459230 | 781640628620899862803482534211706 | [`piday.org`](https://www.piday.org/million/)               |
+| e   | 2.71828182845904523536028747135266 | 249775724709369995957496696762772 | 407663035354759457138217852516642 | [`nasa.gov`](https://apod.nasa.gov/htmltest/gifcity/e.2mil) |
 
 Table: A table too wide to fit within page.
 {#tbl:constant-digits}
 
 |          | **Colors** <!-- $colspan="2" --> |                      |
-|:--------:|:--------------------------------:|:--------------------:|
-| **Size** | **Text Color**                   | **Background Color** |
-| big      | blue                             | orange               |
-| small    | black                            | white                |
+| :------: | :------------------------------: | :------------------: |
+| **Size** |          **Text Color**          | **Background Color** |
+|   big    |               blue               |        orange        |
+|  small   |              black               |        white         |
 
 Table: A table with merged cells using the `attributes` plugin.
 {#tbl: merged-cells}
@@ -355,9 +431,10 @@ Manubot Manubot Manubot Manubot.
 Manubot Manubot Manubot.
 Manubot Manubot.
 Manubot.
+
 <!-- $id="element_id" class="some_class" $style="color: #ad1457; margin-left: 40px;" $disabled="true" $title="a paragraph of text" $data-color="red" -->
 
-Available background colors for text, images, code, banners, etc:  
+Available background colors for text, images, code, banners, etc:
 
 `white`{.white}
 `lightgrey`{.lightgrey}
@@ -385,17 +462,17 @@ Using the [Font Awesome](https://fontawesome.com/) icon set:
 
 [
 <i class="fas fa-scroll fa-lg"></i> **Light Grey Banner**<br>
-useful for *general information* - [manubot.org](https://manubot.org/)
+useful for _general information_ - [manubot.org](https://manubot.org/)
 ]{.banner .lightgrey}
 
 [
 <i class="fas fa-info-circle fa-lg"></i> **Blue Banner**<br>
-useful for *important information* - [manubot.org](https://manubot.org/)
+useful for _important information_ - [manubot.org](https://manubot.org/)
 ]{.banner .lightblue}
 
 [
 <i class="fas fa-ban fa-lg"></i> **Light Red Banner**<br>
-useful for *warnings* - [manubot.org](https://manubot.org/)
+useful for _warnings_ - [manubot.org](https://manubot.org/)
 ]{.banner .lightred}
 
 
