@@ -1,44 +1,49 @@
 ---
-title: Xavier Refour CV
+title: Manuscript Title
 keywords:
 - markdown
 - publishing
 - manubot
 lang: en-US
-date-meta: '2021-06-07'
+date-meta: '2021-06-10'
 author-meta:
-- Xavier Refour
+- John Doe
+- Jane Roe
 header-includes: |-
   <!--
   Manubot generated metadata rendered from header-includes-template.html.
   Suggest improvements at https://github.com/manubot/manubot/blob/main/manubot/process/header-includes-template.html
   -->
   <meta name="dc.format" content="text/html" />
-  <meta name="dc.title" content="Xavier Refour CV" />
-  <meta name="citation_title" content="Xavier Refour CV" />
-  <meta property="og:title" content="Xavier Refour CV" />
-  <meta property="twitter:title" content="Xavier Refour CV" />
-  <meta name="dc.date" content="2021-06-07" />
-  <meta name="citation_publication_date" content="2021-06-07" />
+  <meta name="dc.title" content="Manuscript Title" />
+  <meta name="citation_title" content="Manuscript Title" />
+  <meta property="og:title" content="Manuscript Title" />
+  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.date" content="2021-06-10" />
+  <meta name="citation_publication_date" content="2021-06-10" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
   <meta name="dc.publisher" content="Manubot" />
   <meta name="citation_journal_title" content="Manubot" />
   <meta name="citation_technical_report_institution" content="Manubot" />
-  <meta name="citation_author" content="Xavier Refour" />
+  <meta name="citation_author" content="John Doe" />
   <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
   <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
-  <meta name="twitter:creator" content="@sincerebroth" />
+  <meta name="twitter:creator" content="@johndoe" />
+  <meta name="citation_author" content="Jane Roe" />
+  <meta name="citation_author_institution" content="Department of Something, University of Whatever" />
+  <meta name="citation_author_institution" content="Department of Whatever, University of Something" />
+  <meta name="citation_author_orcid" content="XXXX-XXXX-XXXX-XXXX" />
   <link rel="canonical" href="https://xrxrxr.github.io/cv-manubot/" />
   <meta property="og:url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta property="twitter:url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_fulltext_html_url" content="https://xrxrxr.github.io/cv-manubot/" />
   <meta name="citation_pdf_url" content="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://xrxrxr.github.io/cv-manubot/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/026790625450707bed27459f63aff6180227c892/" />
-  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/026790625450707bed27459f63aff6180227c892/" />
-  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/026790625450707bed27459f63aff6180227c892/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/" />
+  <meta name="manubot_html_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/" />
+  <meta name="manubot_pdf_url_versioned" content="https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -60,25 +65,35 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://xrxrxr.github.io/cv-manubot/v/026790625450707bed27459f63aff6180227c892/))
+([permalink](https://xrxrxr.github.io/cv-manubot/v/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31/))
 was automatically generated
-from [xrxrxr/cv-manubot@0267906](https://github.com/xrxrxr/cv-manubot/tree/026790625450707bed27459f63aff6180227c892)
-on June 7, 2021.
+from [xrxrxr/cv-manubot@8a59c1e](https://github.com/xrxrxr/cv-manubot/tree/8a59c1ecf67d0d2bf707cc0f240e3b38741f3e31)
+on June 10, 2021.
 </em></small>
 
 ## Authors
 
 
 
-+ **Xavier Refour**<br>
++ **John Doe**<br>
     ![ORCID icon](images/orcid.svg){.inline_icon}
     [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
     · ![GitHub icon](images/github.svg){.inline_icon}
-    [xrxrxr](https://github.com/xrxrxr)
+    [johndoe](https://github.com/johndoe)
     · ![Twitter icon](images/twitter.svg){.inline_icon}
-    [sincerebroth](https://twitter.com/sincerebroth)<br>
+    [johndoe](https://twitter.com/johndoe)<br>
   <small>
      Department of Something, University of Whatever
+     · Funded by Grant XXXXXXXX
+  </small>
+
++ **Jane Roe**<br>
+    ![ORCID icon](images/orcid.svg){.inline_icon}
+    [XXXX-XXXX-XXXX-XXXX](https://orcid.org/XXXX-XXXX-XXXX-XXXX)
+    · ![GitHub icon](images/github.svg){.inline_icon}
+    [janeroe](https://github.com/janeroe)<br>
+  <small>
+     Department of Something, University of Whatever; Department of Whatever, University of Something
   </small>
 
 
